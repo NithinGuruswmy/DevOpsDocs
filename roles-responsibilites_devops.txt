@@ -1,0 +1,49 @@
+DEVOPS ROLES AND RESPONSIBILITIES: 
+
+Creating branches and tags using GitHub.
+
+Maintain GIT Repositories, Handling Releases and Branching activities for Github.
+
+Handle multiple builds from Development team, create build jobs in Jenkins and
+
+perform deployment activities.
+
+Responsible for taking the source code and compiling using Maven and package it in  its distributable format,such as a JAR / WAR /EAR.
+
+Automate the build Process Using Jenkins jobs.
+
+Monitoring daily builds using continuous integration tool Jenkins.
+
+Date wise Daily keeping track all the Script.
+
+Deploying the JAR / WAR / EAR files in Tomcat app server.
+
+Setup of the code repository using GIT.
+
+Verifying the logs if build fails
+
+Verify Deployments logs to check for successful deployments.
+
+Keeping track of Release files for every release.
+
+Performing deployments to multiple environments
+
+Understanding the client environment, Administrating and creating solutions using AWS services, CI/CD, GIT, Dockers.
+
+Configuring Jenkins job with related plugins for Testing, Artifactory, and Continuous Deployment to accomplish the complete CI / CD.
+
+Taking periodic backups of jenkins job, restoring in case of there is any issue with jenkins server
+
+Writing the playbooks using ansible for provisioning servers 
+
+Writing pom.xml for build,test,deployment activities for build tools maven/ant
+
+Monitoring the disk/process/cpu/memory using tools like Nagoios
+
+writng the plugns/scripts for nagios for monitoring
+
+Dockerizing the application 
+
+Monitorng/Managing vmware virtual machines using vmware vsphere client 
+
+Linux administration /configuration /installation 
